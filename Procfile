@@ -1,1 +1,1 @@
-worker: npm start && pm2 start index.js
+worker: npm i @adiwajshing/baileys@4.1.0 && node .
